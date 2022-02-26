@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 broker = os.getenv('broker')
-source_topic ="infoaxs.shipment.tracking-events-v1"
+source_topic =""
 
 access_key = os.getenv('access_key')
 secret_key = os.getenv('secret_key')
