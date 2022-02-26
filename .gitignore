@@ -1,0 +1,7 @@
+.env
+kafka_env
+logs/*
+output.log
+app_test.log
+*.zip
+test.py
